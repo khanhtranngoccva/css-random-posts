@@ -13,7 +13,7 @@
 ## Access demo version
 
 ```
-https://khanhtranngoccva.github.io/css-shitposts/CSS_POST_SLUG
+https://khanhtranngoccva.github.io/css-random-posts/CSS_POST_SLUG
 ```
 
 CSS_POST_SLUG: The dash-joined folder name of the post you want to demo.
@@ -21,5 +21,5 @@ CSS_POST_SLUG: The dash-joined folder name of the post you want to demo.
 ### Example
 
 ```
-https://khanhtranngoccva.github.io/css-shitposts/snoop-dogg
+https://khanhtranngoccva.github.io/css-random-posts/snoop-dogg
 ```
