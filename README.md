@@ -1,5 +1,7 @@
 # CSS Single Div Random Posts
 
+![image](https://github.com/khanhtranngoccva/css-random-posts/assets/61155608/f881e70b-a4e6-46c3-85c0-dd738a43199d)
+
 ## Abstract
 
 - This repo stores random images and posts from Twatter including my own images, that I rebuilt in CSS using a homemade
